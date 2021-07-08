@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Tarik 👋
+
+----
+
+> Currently focused on React and Node.js, though I dabble in C#/.NET for work. 
+
+### 👨🏻‍💻 A Little About Myself
+
+- 🇨🇦 I'm 26 and I currently live in the beautiful city of Montreal, Canada.
+- 🖥️ Full Stack Developer at [@Amilia](https://github.com/AmiliaApp)
+- ✍️ Currently setting up my portofolio site/blog, so stay tuned! 
 
 <!--
 **TarikAbou-Saddik/TarikAbou-Saddik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
