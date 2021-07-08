@@ -1,10 +1,8 @@
-### Hi, I'm Tarik 👋
-
-----
+## Hi, I'm Tarik 👋
 
 > Currently focused on React and Node.js, though I dabble in C#/.NET for work. 
 
-### 👨🏻‍💻 A Little About Myself
+## 👨🏻‍💻 A Little About Myself
 
 - 🇨🇦 I'm 26 and I currently live in the beautiful city of Montreal, Canada.
 - 🖥️ Full Stack Developer at [@Amilia](https://github.com/AmiliaApp)
