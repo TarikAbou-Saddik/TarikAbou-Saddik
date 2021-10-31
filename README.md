@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/tarik.abousaddik@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-    
 
 ### 👨🏻‍💻 A Little About Myself
 ```js
@@ -36,8 +35,8 @@ const tarik = {
 
 ### ⚙️ GitHub Stats
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=TarikAbou-Saddik&theme=radical&include_all_commits=true" alt="Tarik's GitHub stats" height="150"/> &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarikAbou-Saddik&layout=compact&theme=radical" alt="Tarik's Top Languages on GitHub" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TarikAbou-Saddik&theme=highcontrast&include_all_commits=true" alt="Tarik's GitHub stats" height="150"/> &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarikAbou-Saddik&layout=compact&theme=highcontrast" alt="Tarik's Top Languages on GitHub" height="150"/>
 </div>
 <!-- [![Tarik's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarikAbou-Saddik&theme=dark)](https://github.com/TarikAbou-Saddik/github-readme-stats)
 [![Tarik's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarikAbou-Saddik&layout=compact&theme=dark)](https://github.com/TarikAbou-Saddik/github-readme-stats) -->
