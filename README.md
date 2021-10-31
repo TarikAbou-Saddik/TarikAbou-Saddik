@@ -35,8 +35,8 @@ const tarik = {
 
 ### ⚙️ &nbsp; GitHub Stats
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=TarikAbou-Saddik&theme=highcontrast&include_all_commits=true" alt="Tarik's GitHub stats" height="177"/> &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarikAbou-Saddik&layout=compact&theme=highcontrast" alt="Tarik's Top Languages on GitHub" height="177"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TarikAbou-Saddik&theme=highcontrast&include_all_commits=true" alt="Tarik's GitHub stats" height="155"/> &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarikAbou-Saddik&layout=compact&theme=highcontrast" alt="Tarik's Top Languages on GitHub" height="155"/>
 </div>
 <!-- [![Tarik's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarikAbou-Saddik&theme=dark)](https://github.com/TarikAbou-Saddik/github-readme-stats)
 [![Tarik's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarikAbou-Saddik&layout=compact&theme=dark)](https://github.com/TarikAbou-Saddik/github-readme-stats) -->
