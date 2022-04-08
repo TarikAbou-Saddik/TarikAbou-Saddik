@@ -16,7 +16,7 @@
 const tarik = {
   currentRole: {
     position: '🖥️ Full Stack Developer',
-    employer: '@AmiliaApp',
+    employer: '@AppDirect',
   },
   location: {
     city: '🌃 Montreal',
