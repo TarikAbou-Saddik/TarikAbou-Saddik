@@ -3,12 +3,6 @@
   <a href="https://www.linkedin.com/in/tarikabousaddik/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/">
-      <img src="https://img.shields.io/badge/TheCynicalDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:tarik.abousaddik@gmail.com">
-    <img src="https://img.shields.io/badge/tarik.abousaddik@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
 </div>
 
 ### 👨🏻‍💻 &nbsp; A Little About Myself
